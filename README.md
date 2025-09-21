@@ -1,3 +1,5 @@
+# \## STARTED PUSH AT 8:50AM (central time), but for some reason original .git was 3GB. had to remake repo and repush and increase git buffersize, ultimately finishing initial 8:50AM at 10:10AM!
+
 # \# Gaussian Splatting Setup for Windows
 
 # 
