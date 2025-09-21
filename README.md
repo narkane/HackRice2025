@@ -1,6 +1,5 @@
 # \## STARTED PUSH AT 8:50AM (central time), but for some reason original .git was 3GB. had to remake repo and repush and increase git buffersize, ultimately finishing initial 8:50AM at 10:10AM!
-
-# \# Gaussian Splatting Setup for Windows
+______________________________________________________________________________________________
 
 #[Eventually environment setup will be bundled in fashionfit.bat/sh script (used to run full pipeline from video input to final output) (currently defunct script fails to execute all pipeline commands as outlined in: https://github.com/graphdeco-inria/gaussian-splatting
 # ...and out of time to correct [next version task])
@@ -8,6 +7,11 @@
 # Environment setup instructions: https://medium.com/@heyulei/install-inrias-gaussian-splatting-source-code-on-windows-7781460518ef#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjA3ZjA3OGYyNjQ3ZThjZDAxOWM0MGRhOTU2OWU0ZjUyNDc5OTEwOTQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDcxMjkzNzEyOTIzNjExNjYwNDMiLCJlbWFpbCI6ImVuaWthdGhAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5iZiI6MTc1ODQxNzEwMywibmFtZSI6IkpvaG4gVGh1bW1lbCIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NKRUd6bzdJOE55TU1OUjlJX19uREpGWUgyT1hKN0lGSkNaOXNOajZ1RGFMTWtqRS1PRj1zOTYtYyIsImdpdmVuX25hbWUiOiJKb2huIiwiZmFtaWx5X25hbWUiOiJUaHVtbWVsIiwiaWF0IjoxNzU4NDE3NDAzLCJleHAiOjE3NTg0MjEwMDMsImp0aSI6Ijg0MGFlM2I2MmUwYzIyMWFjNzkzZTQ1MzU2OWZlOTBiZWVhMTUxZGYifQ.a_scZ-PMTPEv3r_OZK8c88zxaIk619-VXYvkBxhL1tDkS_cv2E-IWx2hHuQOPHBYm6nBldCKDyYP3HAaWFhx5s_Bk1JPb7A3wMixiWoyHq3zaJHzu1NUSltlnO5q8RbdiUtJu1TZEQx-CWJlh9hrwQdlSCBsjDpaONez4WMaHkqdJkHJsM5C_PpQTqAlFrPEjR9zlAVUH5b6UtbFQimPIAaSeqXQ9ErRSbWdIIOM8oRXX5JnRum7DaRaHJxewzwBApyMbYWvEsLcVQOdNQCClyXr2Ms4DZsyn-Nqh5FQvcAjpxJuqIlIIrKGsv8Nz9gYgiVtZaZTpjSshtBwR3phYg
 
 # Current operation instructions (until fashionfit.bat/sh is fixed): https://github.com/graphdeco-inria/gaussian-splatting
+
+______________________________________________________________________________________________
+
+
+# \# Gaussian Splatting Environment Setup for Windows
 
 # This repository contains the setup and implementation for INRIA's Gaussian Splatting on Windows systems. This guide provides step-by-step instructions to overcome common installation challenges on Windows platforms.
 
